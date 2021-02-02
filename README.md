@@ -2,6 +2,8 @@
 [![](https://vistr.dev/badge?repo=simpletut.brnu0&corners=square)](https://github.com/simpletut/vistr.dev)
 [![](https://img.shields.io/badge/-@brnu0-%23181717?style=flat-square&logo=github)](https://github.com/brnu0)
 
+- 🔭 I’m currently working on an e-commerce website using React JS, Redux, GraphQL and Firebase.
+
 ## About me
 I am a computer engineering student and I am passionate about working with development technologies including Node JS, React JS, Java and Python.
 
