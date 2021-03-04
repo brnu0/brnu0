@@ -13,10 +13,11 @@ I am a computer engineering student and I am passionate about working with devel
 
 ### Languages
 
-[![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/adamalston?tab=repositories&q=&type=&language=javascript)
-[![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c)
-[![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://github.com/adamalston?tab=repositories&q=&type=&language=java)
+[![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/brnu0?tab=repositories&q=&type=&language=python)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/brnu0?tab=repositories&q=&type=&language=javascript)
+[![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/brnu0?tab=repositories&q=&type=&language=c)
+[![C#](https://img.shields.io/badge/-C#-000?&logo=C#)](https://github.com/brnu0?tab=repositories&q=&type=&language=c#)
+[![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://github.com/brnu0?tab=repositories&q=&type=&language=java)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 
@@ -31,7 +32,6 @@ I am a computer engineering student and I am passionate about working with devel
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![JQuery](https://img.shields.io/badge/-JQuery-000?&logo=JQuery)
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-000?&logo=ASP.NET)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase&logoColor=4479A1)
 ![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Cisco)
 
