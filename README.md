@@ -15,7 +15,8 @@ I am a computer engineering student and I am passionate about working with devel
 [![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://github.com/adamalston?tab=repositories&q=&type=&language=java)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
-![React](https://img.shields.io/badge/-SQL-000?&logo=React&logoColor=4479A1)
+![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=4479A1)
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase&logoColor=4479A1)
 
 ## :computer: Technologies I Love
 * AI
