@@ -29,6 +29,7 @@ I am a computer engineering student and I am passionate about working with devel
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![JQuery](https://img.shields.io/badge/-JQuery-000?&logo=JQuery)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase&logoColor=4479A1)
 ![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Cisco)
 
