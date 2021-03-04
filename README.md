@@ -27,7 +27,7 @@ I am a computer engineering student and I am passionate about working with devel
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=brnu0&layout=compact">
 
 ## 𝗦𝘁𝗮𝘁𝘀
-![brnu0's github stats]<img height="137px" src="https://github-readme-stats.vercel.app/api?username=brnu0&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=dracula" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brnu0&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=dracula" /></a>
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=brnu0&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=dracula" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brnu0&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=dracula" /></a>
 
 <!--
 **brnu0/brnu0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
