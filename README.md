@@ -1,11 +1,15 @@
-### Hi there 👋 I'm Bruno Carvalho (brnu0)
+### I'm Bruno Carvalho (brnu0)
 [![](https://vistr.dev/badge?repo=simpletut.brnu0&corners=square)](https://github.com/simpletut/vistr.dev)
 [![](https://img.shields.io/badge/-@brnu0-%23181717?style=flat-square&logo=github)](https://github.com/brnu0)
 
 - 🔭 I’m currently working on an e-commerce website using React JS, Redux, GraphQL and Firebase.
 
-## About me
+### About me
 I am a computer engineering student and I am passionate about working with development technologies.
+* AI
+* Machine Learning
+* Data Science
+* Frontend and Backend Web Development
 
 ### Languages
 
@@ -15,18 +19,21 @@ I am a computer engineering student and I am passionate about working with devel
 [![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://github.com/adamalston?tab=repositories&q=&type=&language=java)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
-![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=4479A1)
+
+### Technologies
+
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-000?&logo=CircleCI&logoColor=888)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira-Software&logoColor=0052CC)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase&logoColor=4479A1)
+![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Cisco)
 
-## :computer: Technologies I Love
-* AI
-* Machine Learning
-* Data Science
-* Frontend and Backend Web Development
+### 𝗦𝘁𝗮𝘁𝘀
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=brnu0&layout=compact">
-
-## 𝗦𝘁𝗮𝘁𝘀
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=brnu0&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dracula" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brnu0&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&theme=dracula" /></a>
 
 <!--
