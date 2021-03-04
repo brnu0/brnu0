@@ -5,7 +5,17 @@
 - 🔭 I’m currently working on an e-commerce website using React JS, Redux, GraphQL and Firebase.
 
 ## About me
-I am a computer engineering student and I am passionate about working with development technologies including Node JS, React JS, Java and Python.
+I am a computer engineering student and I am passionate about working with development technologies.
+
+### Languages
+
+[![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/adamalston?tab=repositories&q=&type=&language=javascript)
+[![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c)
+[![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://github.com/adamalston?tab=repositories&q=&type=&language=java)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
+![React](https://img.shields.io/badge/-SQL-000?&logo=React&logoColor=4479A1)
 
 ## :computer: Technologies I Love
 * AI
