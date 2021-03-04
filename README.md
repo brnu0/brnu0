@@ -1,5 +1,5 @@
 ### I'm Bruno Carvalho (brnu0)
-[![](https://vistr.dev/badge?repo=simpletut.brnu0&corners=square)](https://github.com/simpletut/vistr.dev)
+[![](https://vistr.dev/badge?repo=brnu0&corners=square)](https://github.com/brnu0/vistr.dev)
 [![](https://img.shields.io/badge/-@brnu0-%23181717?style=flat-square&logo=github)](https://github.com/brnu0)
 
 - 🔭 I’m currently working on an e-commerce website using React JS, Redux, GraphQL and Firebase.
